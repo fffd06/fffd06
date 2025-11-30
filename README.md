@@ -1,7 +1,7 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
 
-<h1 align="center">Hello! I'm fffd06 👋</h1>
+<h1 align="center">Hello! I'm 돈규 👋</h1>
 <p align="center">Full Stack Developer in Progress</p>
 
 ---
